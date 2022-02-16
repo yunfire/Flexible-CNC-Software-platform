@@ -1,0 +1,2 @@
+# Flexible-CNC-Software-platform
+其為一可安排指定複數CNC，依照預先規畫好的群集加工腳本，投入加工之軟體平台，並具備直譯GMcode轉換為運動控制命令機台運動，並可透過Graphic控制項監控當前加工進度。
