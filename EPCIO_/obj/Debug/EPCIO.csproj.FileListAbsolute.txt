@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\EPCIO\EPCIO\bin\Debug\EPCIO.exe.config
+C:\Users\user\source\repos\EPCIO\EPCIO\bin\Debug\EPCIO.exe
+C:\Users\user\source\repos\EPCIO\EPCIO\bin\Debug\EPCIO.pdb
+C:\Users\user\source\repos\EPCIO\EPCIO\obj\Debug\EPCIO.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EPCIO\EPCIO\obj\Debug\EPCIO.Form1.resources
+C:\Users\user\source\repos\EPCIO\EPCIO\obj\Debug\EPCIO.Properties.Resources.resources
+C:\Users\user\source\repos\EPCIO\EPCIO\obj\Debug\EPCIO.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EPCIO\EPCIO\obj\Debug\EPCIO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EPCIO\EPCIO\obj\Debug\EPCIO.exe
+C:\Users\user\source\repos\EPCIO\EPCIO\obj\Debug\EPCIO.pdb
+C:\Users\TSU\Desktop\EPCIO\EPCIO\bin\Debug\EPCIO.exe.config
+C:\Users\TSU\Desktop\EPCIO\EPCIO\obj\Debug\EPCIO.exe
+C:\Users\TSU\Desktop\EPCIO\EPCIO\obj\Debug\EPCIO.pdb
