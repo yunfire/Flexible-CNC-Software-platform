@@ -1,0 +1,9 @@
+<toolParam>
+  <ToolNumber>MES2A</ToolNumber>
+  <ToolSeriesInput>端銑刀</ToolSeriesInput>
+  <ToolOuterDiameter>0.2</ToolOuterDiameter>
+  <ToolBlendLength>0.4</ToolBlendLength>
+  <ToolBladeNumber>2</ToolBladeNumber>
+  <ToolShankDiameter>4</ToolShankDiameter>
+  <ToolLength>50</ToolLength>
+</toolParam>

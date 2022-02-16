@@ -1,0 +1,15 @@
+<Param>
+  <MacParam>
+    <wPosToEncoderDir>0</wPosToEncoderDir>
+    <dwPPR>7000</dwPPR>
+    <wRPM>3000</wRPM>
+    <dfPitch>1</dfPitch>
+    <dfGearRatio>1</dfGearRatio>
+    <dfHighLimit>50000</dfHighLimit>
+    <dfLowLimit>-50000</dfLowLimit>
+    <wPulseMode>DDA_FMT_CW</wPulseMode>
+    <wPulseWidth>100</wPulseWidth>
+    <wCommandMode>0</wCommandMode>
+    <FeedSpeed>100</FeedSpeed>
+  </MacParam>
+</Param>

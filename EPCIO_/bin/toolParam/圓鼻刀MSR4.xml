@@ -1,0 +1,9 @@
+<toolParam>
+  <ToolNumber>MSR4</ToolNumber>
+  <ToolSeriesInput>圓鼻刀</ToolSeriesInput>
+  <ToolOuterDiameter>3</ToolOuterDiameter>
+  <ToolBlendLength>4</ToolBlendLength>
+  <ToolBladeNumber>4</ToolBladeNumber>
+  <ToolShankDiameter>6</ToolShankDiameter>
+  <ToolLength>60</ToolLength>
+</toolParam>

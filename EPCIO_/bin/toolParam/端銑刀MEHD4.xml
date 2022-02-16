@@ -1,0 +1,9 @@
+<toolParam>
+  <ToolNumber>MEHD4</ToolNumber>
+  <ToolSeriesInput>端銑刀</ToolSeriesInput>
+  <ToolOuterDiameter>3</ToolOuterDiameter>
+  <ToolBlendLength>4.5</ToolBlendLength>
+  <ToolBladeNumber>4</ToolBladeNumber>
+  <ToolShankDiameter>6</ToolShankDiameter>
+  <ToolLength>50</ToolLength>
+</toolParam>

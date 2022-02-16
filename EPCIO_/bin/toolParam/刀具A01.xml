@@ -1,0 +1,13 @@
+<toolParam>
+  <ToolNumber>01</ToolNumber>
+  <ToolSeriesInput>刀具A</ToolSeriesInput>
+  <ToolOuterDiameter>1</ToolOuterDiameter>
+  <ToolBlendLength>2</ToolBlendLength>
+  <ToolBladeNumber>3</ToolBladeNumber>
+  <ToolShankDiameter>4</ToolShankDiameter>
+  <ToolLength>5</ToolLength>
+  <ToolBallRadius>6</ToolBallRadius>
+  <ToolEffectiveLen>7</ToolEffectiveLen>
+  <ToolThreadSpecification>8</ToolThreadSpecification>
+  <ToolPitch>9</ToolPitch>
+</toolParam>
